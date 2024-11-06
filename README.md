@@ -1,9 +1,9 @@
 
-# MyGarage
+# MyGarage v0.0.1
 
-## Check out how the project looks now: [MyGarage Screenshot](https://github.com/Nixwzy/MyGarage/blob/main/assets/screenshot11_05_24.png) (11-05-24)
+## Check out how the project looks now: [MyGarage v0.0.1 Screenshot](https://github.com/Nixwzy/MyGarage/blob/main/assets/screenshot11_05_24.png) (11-05-24 v0.0.1)
 ## Project Overview
-MyGarage is a fictional application created as part of a university exercise, inspired by the need for a practical vehicle storage solution. The goal of this project is to provide a user-friendly interface for storing and managing vehicle information using Python.
+MyGarage v0.0.1 is a fictional application created as part of a university exercise, inspired by the need for a practical vehicle storage solution. The goal of this project is to provide a user-friendly interface for storing and managing vehicle information using Python.
 
 This application serves as a case study, utilizing only Python and its libraries, specifically PIL and Tkinter. The development of MyGarage will evolve as I learn more about these technologies and gain more programming experience.
 

@@ -25,7 +25,7 @@ def register_vehicle(lang):
 
 def main():
     root = tk.Tk()
-    root.title("MyGarage")
+    root.title("MyGarage v0.0.1")
     root.geometry("600x900")
     root.overrideredirect(False)
     root.resizable(False, False)
