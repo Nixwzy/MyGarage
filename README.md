@@ -26,6 +26,4 @@ pip install PIL
 - This project is inspired by my coursework and personal interest in programming and software development.
 
 ## Future Implementations for v0.0.2
-- Development of a dark mode to enhance user experience in low-light environments.
-- Addition of a language toggle feature to allow users to switch between Portuguese and English.
 - UI Improvement
