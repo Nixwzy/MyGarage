@@ -13,26 +13,19 @@ With MyGarage, I aim to enhance my understanding of object-oriented programming 
 As I progress through my studies and projects, I intend to expand MyGarage into a more comprehensive application that could serve as a practical tool for managing personal vehicle collections.
 
 ## Installation
-To run MyGarage, you need to have Python installed on your machine. Additionally, you will need to install the required libraries: PIL (Pillow) and Tkinter.
+To run MyGarage, you need to have Python installed on your machine. Additionally, you will need to install the required library PIL (Pillow).
 
 ### Installing Pillow (PIL)
 You can install Pillow using pip:
 
 ```
-pip install Pillow
-```
-
-### Installing Tkinter
-Tkinter comes pre-installed with most Python distributions. If you encounter any issues, you can install it via your package manager. For example, on Ubuntu, you can run:
-
-```
-sudo apt-get install python3-tk
+pip install PIL
 ```
 
 ## Acknowledgments
 - This project is inspired by my coursework and personal interest in programming and software development.
 
-## Future Implementations
+## Future Implementations for v0.0.2
 - Development of a dark mode to enhance user experience in low-light environments.
 - Addition of a language toggle feature to allow users to switch between Portuguese and English.
-
+- UI Improvement
